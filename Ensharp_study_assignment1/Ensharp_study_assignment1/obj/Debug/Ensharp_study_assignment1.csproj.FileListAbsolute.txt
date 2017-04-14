@@ -1,0 +1,6 @@
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\bin\Debug\Ensharp_study_assignment1.exe.config
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\bin\Debug\Ensharp_study_assignment1.exe
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\bin\Debug\Ensharp_study_assignment1.pdb
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\obj\Debug\Ensharp_study_assignment1.csprojResolveAssemblyReference.cache
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\obj\Debug\Ensharp_study_assignment1.exe
+C:\Users\jaehyuk\Documents\Ensharp_study\Ensharp_study_assignment1\Ensharp_study_assignment1\obj\Debug\Ensharp_study_assignment1.pdb
